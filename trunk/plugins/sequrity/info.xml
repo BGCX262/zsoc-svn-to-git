@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : info.xml
+    Created on : 7 Октябрь 2009 г., 8:55
+    Author     : miho
+    Description:
+        Purpose of the document follows.
+-->
+
+<plugin>
+    <id>sequrity</id>
+    <name>Sequrity Plugin</name>
+    <description>Sequrity Plugin - core plugin user authentification</description>
+    <version>0.01</version>
+</plugin>

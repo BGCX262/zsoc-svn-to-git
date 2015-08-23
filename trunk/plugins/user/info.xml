@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : info.xml
+    Created on : 4 Октябрь 2009 г., 8:57
+    Author     : miho
+    Description:
+        Purpose of the document follows.
+-->
+
+<plugin>
+    <id>user</id>
+    <name>User Plugin</name>
+    <description>User Plugin - core plugin that holds all user operations</description>
+    <version>0.01</version>
+</plugin>
